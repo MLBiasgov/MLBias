@@ -8,8 +8,6 @@ The US Census Bureau xD team, in collaboration with the [10x](https://10x.gsa.go
 
 WHY: AI and machine learning-based tools and techniques are quickly being adopted and deployed across governments at all levels. The rapid pace of adoptions raise ethical concerns of using these tools in civic settings, particularly when they could be invoked to make high-stakes decisions. Invisible quality issues in datasets, biased data collection methods, bad data governance problems, and issues in model development have the potential to introduce enormous bias into decision-making processes that adversely and systematically affect vulnerable populations served by government programs
 
-This collection currently includes a syllabus for beginners, executable Jupyter Notebooks, an annotated list of resources, and other prototpye components. 
-
-This repository is for the design system code itself. We maintain [another repository for the documentation and website](https://github.com/uswds/uswds-site). To see the design system and its documentation on the web, visit [https://designsystem.digital.gov](https://designsystem.digital.gov).
+This collection currently includes a [syllabus for beginners, executable Jupyter Notebooks, an annotated list of resources, and other prototpye components](https://github.com/MLBiasgov/MLBias_papers).
 
 
