@@ -1,0 +1,52 @@
+
+Resource List
+
+Computer Vision + Visual Census
+
+Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., Aiden, E. L., & Fei-Fei, L. (2017). Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States. Proceedings of the National Academy of Sciences, 114(50), 13108-13113.
+
+Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., Aiden, E. L., & Fei-Fei, L. (2017). Using deep learning and google street view to estimate the demographic makeup of the us. arXiv preprint arXiv:1702.06683. (arxiv version of below paper)
+
+Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., & Fei-Fei, L. (2015). Visual census: Using cars to study people and society. Bigvision.
+
+Free-text to automatically assign codes (aka autocoding) Within gov
+
+(BLS) Measure, Alex (2017). Deep neural networks for worker injury autocoding.
+
+(BLS) Measure, Alex (2014). Automatic coding of worker injury narratives. Basis for 1.
+
+(Census) Dumbacher, Brian; Hanna, Demetria (2017). Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys.
+
+Outside gov
+
+Skinner, Michael (2018). Product categorization with LSTMs and balanced pooling views.
+
+Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
+
+Ding, Liya et al. (2015). Auto-Categorization of HS Code Using Background Net Approach.
+
+Amazon Mechanical Turk / Active Learning for better training data
+
+Within Gov
+
+Pierce, Cynthia et al. (2013). Crowd Sourcing data through Amazon Mechanical Turk.
+
+Outside Gov
+
+Settles, Burr (2010). Active Learning.
+
+MTurk for Survey Pretesting (BLS) Yu, Erica et al., 2015: https://www.bls.gov/osmr/pdf/st150260.pdf (NCI), Fowler, Stephanie et al., 2015: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/242/2016/03/C2_Fowler_2015FCSM.pdf (NCSES), Morrison, Rebecca et al., 2017:- https://www.census.gov/fedcasic/fc2018/ppt/5AMorrison.pdf (DOE), Greenblatt, Jeffery et al., 2013:- https://www.osti.gov/biblio/1171618
+
+Alternative Data Sources + Web Scraping (ORNL) Wang, Chieh (Ross) et al. : Web Scraping rail-fan photos to track crude oil shipments. http://onlinepubs.trb.org/onlinepubs/Conferences/2019/FreightData/CrudebyRailRoutesWang.pdf (Census) Dumbacher, Brian et al. : Scraping Assisted By Learning. https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/jsm/jsm-presentation-web-scraping.pdf
+
+ML fairness/algorithmic bias (not govt specific):
+
+UK House of Commons Science and Technology Committee: “Algorithms in Decision Making”
+
+ACM Conference on Fairness, Accountability, and Transparency (“FATML”)
+
+Friedler et al. (2016). “On the (im-)possibility of fairness”
+
+Corbett-Davies et al. (2017). “Algorithmic decision making and the cost of fairness”
+
+IMPACTnet: aicommons.com
